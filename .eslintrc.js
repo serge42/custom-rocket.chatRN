@@ -125,6 +125,7 @@ module.exports = {
 		"object-shorthand": 2,
 		"consistent-return": 0,
 		"global-require": "off",
+		"react/sort-comp": [0],
 		"react/prop-types": [0, { skipUndeclared: true }]
 	},
 	"globals": {
